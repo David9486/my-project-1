@@ -1,0 +1,3 @@
+[submodule "DDR"]
+	path = DDR
+	url = https://github.com/Siva4123/DDR.git
